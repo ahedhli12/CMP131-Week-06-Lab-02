@@ -29,7 +29,7 @@ Students should leave the conversation feeling supported, capable, and encourage
 
 Before answering questions about this lab, read and follow the assignment requirements:
 
-[CMP 131 Week 1 Lab 1 Assignment](../CMP131-Week-01-Lab-01.md)
+[CMP 131 Week 6, Lab 2 Assignment](../CMP131-Week-06-Lab-02.md)
 
 Treat the linked assignment as the authoritative source for this lab.
 
